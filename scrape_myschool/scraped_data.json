@@ -1,0 +1,76 @@
+{
+    "id": 13,
+    "subject_year": "Mathematics Obj 1988",
+    "topic_year": "",
+    "question": "Points P and Q respectively 24m north and 7m east point R. Calculate |PQ| in meters",
+    "question_diagram": null,
+    "options": {
+        "A": "20",
+        "B": "24",
+        "C": "25",
+        "D": "31",
+        "E": "84"
+    },
+    "correct_answer": [
+        "C"
+    ],
+    "explanation": "Hint: PQ\\(^2\\) = 24\\(^2\\) + 7\\(^2\\)PQ\\(^2\\) = 625PQ = 25",
+    "url": "https://myschool.ng/classroom/mathematics/22043?exam_type=waec&exam_year=1988&type=obj&page=3"
+}
+{
+    "id": 14,
+    "subject_year": "Mathematics Obj 1988",
+    "topic_year": "",
+    "question": "Points P and Q respectively 24m north and 7m east point R. What is the bearing of Q from P to the nearest whole degree?",
+    "question_diagram": null,
+    "options": {
+        "A": "16o",
+        "B": "17o",
+        "C": "73o",
+        "D": "106o",
+        "E": "164o"
+    },
+    "correct_answer": [
+        "C"
+    ],
+    "explanation": "Hint: Using pythagoras' theorem:Hyp\\(^2\\) = Adj\\(^2\\) + Opp\\(^2\\) → 24\\(^2\\) + 7\\(^2\\)Hyp = √625 → 25\\(\\tan P = \\frac{7}{24}\\)\\(\\tan P = 0.2917\\)\\(P = \\tan^{-1} (0.2917)\\)= 16.26°Bearing of Q from P = 180° - 16.26°= 163.74° \\(\\approxeq\\) 164°",
+    "url": "https://myschool.ng/classroom/mathematics/22046?exam_type=waec&exam_year=1988&type=obj&page=3"
+}
+{
+    "id": 12,
+    "subject_year": "Mathematics Obj 1988",
+    "topic_year": "",
+    "question": "The number 186,470 was corrected to 186,000. Which of the following describe the degree of approximation made?I. to the nearest hundred II. to the nearest thousand III. to 3 significant figures IV. to 4 significant figures",
+    "question_diagram": null,
+    "options": {
+        "A": "I & III only",
+        "B": "I & IV only",
+        "C": "II & III only",
+        "D": "II & IV only",
+        "E": "All of the above"
+    },
+    "correct_answer": [
+        "C"
+    ],
+    "explanation": "Hint: No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, pleaseclick here",
+    "url": "https://myschool.ng/classroom/mathematics/22040?exam_type=waec&exam_year=1988&type=obj&page=3"
+}
+{
+    "id": 11,
+    "subject_year": "Mathematics Obj 1988",
+    "topic_year": "",
+    "question": "What is the difference in longitude between P (lat. 50°N. long. 50°W) and Q (lat.50°N, long. 150°W)?",
+    "question_diagram": null,
+    "options": {
+        "A": "300o",
+        "B": "200o",
+        "C": "130o",
+        "D": "100o",
+        "E": "30o"
+    },
+    "correct_answer": [
+        "C"
+    ],
+    "explanation": "Hint: Let \\(\\theta\\) be the angular difference between P (50°N. 50°W), and Q (50°N, 150°W),\\(\\theta\\) = 150° - 50° =100°",
+    "url": "https://myschool.ng/classroom/mathematics/22035?exam_type=waec&exam_year=1988&type=obj&page=3"
+}
